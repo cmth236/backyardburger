@@ -1,0 +1,178 @@
+div{
+	}
+	.empty-space {
+	   min-height: 200 px;
+	 }
+
+.nav{
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.nav li{
+	    display: inline;
+	    padding: 30px;
+	    font-size: 20px;
+
+ }
+
+ .nav li a {
+   color: black;
+ }
+
+  .big-image{
+		padding-top: 500px;
+		padding-bottom: 100px;
+	  margin: auto;
+
+	  background-image: url("../images/background.jpg");
+    background-color: #white;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+    }
+
+    .big-image h1{
+      text-align: left 50px;
+      position: absolute;
+      top: 100px;
+      left: 100px;
+
+    }
+
+    .big-image h1{
+      color: red;
+      font-size:50px;
+    }
+
+    .big-image p{
+      color: red;
+    }
+
+
+    .contact ul{
+      line-height: 2.8;
+      text-align: center;
+			margin-right: auto;
+			margin-left: 300px;
+    }
+    .contact h1{
+      text-align:  center;
+      margin-top: 25px;
+      margin-bottom: 25px;
+      margin-left: auto;
+			margin-right:auto
+
+    }
+    .contact li{
+      text-align: center;
+			margin-left: auto;
+			margin-right: auto;
+    }
+
+
+/*---------------- About Us-----------------*/
+.our-history{
+  padding-top: 20px;
+}
+.our-history{
+  position: absolute;
+  top: 100px;
+  right: 50px;
+  left: 50px;
+  margin: auto;
+  margin-left: 100px;
+
+}
+
+.our-history h1{
+text-align: center;
+margin-top: 70px;
+}
+
+.our-history h1{
+  color: black;
+  font-size:35px;
+	margin-left: 300px;
+}
+
+.our-history p{
+  color: black;
+  font-size:12px;
+	max-width: 330px;
+	text-align: center;
+margin-left: 550px;
+margin-right: auto;
+margin-top: 50px;
+
+}
+
+
+.eatting-image{
+  padding-top: 100px;
+  padding-bottom: 100px;
+
+  background-image: url("../images/eatting.jpg");
+  background-color: #white;
+  background-repeat: no-repeat;
+}
+
+.eatting-image{
+  margin-right: 250px;
+  margin-left: 150px;
+	margin-top: 65px;
+}
+
+/*------------Menu-------------*/
+
+.french{
+  padding-top: 100px;
+  padding-bottom: 100px;
+
+  background-image: url("../images/fries.jpg");
+  background-color: #white;
+  background-repeat: no-repeat;
+}
+
+.menu h1{
+  text-align: center 10px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 35px;
+}
+
+.burgers ul{
+  line-height: 2.8;
+}
+.hot-dogs h1{
+  text-align: left 10px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 35px;
+}
+
+.hot-dogs ul{
+  line-height: 2.8;
+}
+
+.sides h1{
+  text-align: left 10px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 35px;
+}
+
+.sides ul{
+  line-height: 2.8;
+}
+.drinks h1{
+  text-align: left 10px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 35px;
+}
+
+.drinks ul{
+  line-height: 2.8;
+}
