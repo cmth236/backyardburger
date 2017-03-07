@@ -55,7 +55,7 @@ div{
       line-height: 2.8;
       text-align: center;
 			margin-right: auto;
-			margin-left: auto;
+			margin-left: 300px;
     }
     .contact h1{
       text-align:  center;
@@ -63,7 +63,7 @@ div{
       margin-bottom: 25px;
       margin-left: auto;
 			margin-right:auto
-      
+
     }
     .contact li{
       text-align: center;
